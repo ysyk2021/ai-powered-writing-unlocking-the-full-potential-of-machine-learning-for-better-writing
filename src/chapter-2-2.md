@@ -1,5 +1,4 @@
-Types of AI Used for Writing
-=========================================================================
+
 
 AI-powered writing technology utilizes a range of AI techniques to improve the quality and efficiency of written content. In this chapter, we will explore the different types of AI used for writing.
 

@@ -1,5 +1,4 @@
-Assessing Your Writing Needs and Goals
-=============================================================================================
+
 
 Preparing for AI implementation in writing involves assessing your organization's writing needs and goals. In this chapter, we explore the importance of assessing writing needs and goals, how to conduct a needs assessment, and best practices for setting writing goals.
 

@@ -1,5 +1,4 @@
-Legal and regulatory considerations for AI implementation in writing
-=====================================================================================================================
+
 
 As AI becomes more prevalent in the field of writing, it's important to consider the ethical and legal implications of its use. In this chapter, we will explore some of the key considerations for implementing AI in writing, including legal and regulatory issues.
 

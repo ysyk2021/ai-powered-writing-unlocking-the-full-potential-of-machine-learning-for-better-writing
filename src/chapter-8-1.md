@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Writing
-====================================================================================================
+
 
 AI-powered writing technology has the potential to improve writing performance and productivity. In this chapter, we explore how to assess the effectiveness of AI for writing and measure its impact on writing performance.
 
