@@ -1,5 +1,4 @@
 
-
 As AI becomes increasingly integrated into writing and content creation, it's important to consider the ethical and governance implications of using AI-powered tools. In this chapter, we will explore some of the ethical considerations, developing governance frameworks, and legal and regulatory considerations for AI implementation in writing.
 
 Ethical considerations for AI implementation in writing

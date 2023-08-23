@@ -1,5 +1,4 @@
 
-
 As AI becomes increasingly integrated into writing and content creation, it's important to measure its impact on writing performance. In this chapter, we will explore how to identify areas for improvement and refinement in AI-powered writing.
 
 Metrics to Measure AI Impact on Writing Performance
