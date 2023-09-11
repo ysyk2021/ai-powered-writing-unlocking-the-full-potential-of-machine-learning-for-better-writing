@@ -1,5 +1,4 @@
-Chapter 8: Ethical Considerations for AI Implementation in Writing
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that writers need to address when implementing AI technologies in their writing processes. Understanding and addressing these ethical considerations is crucial for ensuring responsible and equitable use of AI-powered tools.
 

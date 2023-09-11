@@ -1,5 +1,4 @@
-Chapter 3: Types of AI Used for Writing
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of Artificial Intelligence (AI) that are commonly used for writing. These AI technologies play a crucial role in unlocking the full potential of machine learning for better writing experiences and outcomes.
 

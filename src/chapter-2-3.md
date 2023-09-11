@@ -1,5 +1,4 @@
-Chapter 4: Benefits of AI for Improving Writing Quality and Productivity
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant benefits that AI brings to the table in terms of improving writing quality and boosting productivity. By leveraging AI-powered tools and technologies, writers can tap into the full potential of machine learning and enhance their writing process.
 

@@ -1,5 +1,4 @@
-Chapter 2: Overview of AI Applications for Content Creation and Optimization
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various applications of AI in content creation and optimization. These AI-powered tools and technologies have revolutionized the writing process, empowering writers to unlock the full potential of machine learning for better writing.
 

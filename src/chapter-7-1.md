@@ -1,5 +1,4 @@
-Chapter 7: Overview of AI Applications for Workflow and Collaboration
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI applications that can enhance workflow and collaboration in the context of writing. By leveraging AI-powered tools, writers can streamline their processes, improve efficiency, and foster seamless collaboration.
 

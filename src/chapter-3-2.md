@@ -1,5 +1,4 @@
-Chapter 5: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial process of evaluating data availability and quality in the context of AI-powered writing. Understanding how to assess data availability and ensure data quality is essential for effective implementation of machine learning techniques in writing processes.
 

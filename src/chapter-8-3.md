@@ -1,5 +1,4 @@
-Chapter 10: Continuously Adapting and Improving Your AI Approach for Writing
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of continuously adapting and improving your AI approach for writing. As technology evolves and user needs change, it is crucial to stay agile and proactive in refining your AI-powered writing processes.
 

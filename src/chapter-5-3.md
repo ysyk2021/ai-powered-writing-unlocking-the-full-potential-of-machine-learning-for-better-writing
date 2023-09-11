@@ -1,5 +1,4 @@
-Chapter 6: Using AI Algorithms for Data Analysis and Pattern Recognition in Writing
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of AI algorithms for data analysis and pattern recognition in writing. By harnessing the power of machine learning, writers can gain valuable insights, identify trends, and enhance their writing through data-driven approaches.
 

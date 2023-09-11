@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Tools and Technologies for Writing
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI tools and technologies that can be utilized to enhance the writing process. These tools harness the power of machine learning to assist writers in unlocking the full potential of their craft.
 

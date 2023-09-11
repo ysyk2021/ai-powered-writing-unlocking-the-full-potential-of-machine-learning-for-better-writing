@@ -1,5 +1,4 @@
-Chapter 1: Definition of AI-Powered Writing
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the definition of AI-powered writing and its significance in unlocking the full potential of machine learning for better writing.
 

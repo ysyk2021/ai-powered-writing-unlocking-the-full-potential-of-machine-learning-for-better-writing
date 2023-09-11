@@ -1,5 +1,4 @@
-Chapter 8: Key Factors to Consider When Choosing AI Tools
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the key factors that writers should consider when choosing AI-powered tools for their writing endeavors. With a wide range of AI tools available, understanding these factors will help writers make informed decisions and maximize the benefits of AI in their writing process.
 

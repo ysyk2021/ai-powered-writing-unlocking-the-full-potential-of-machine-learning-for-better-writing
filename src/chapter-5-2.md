@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Data Collection and Preparation
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the best practices for data collection and preparation when harnessing AI-powered writing tools. Properly collecting and preparing data is crucial to ensure accurate and effective utilization of machine learning algorithms for better writing outcomes.
 

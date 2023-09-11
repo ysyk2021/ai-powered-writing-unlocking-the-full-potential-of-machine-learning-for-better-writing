@@ -1,5 +1,4 @@
-Chapter 9: Case Studies of Successful AI Implementations in Workflow and Collaboration
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine case studies of successful AI implementations in workflow and collaboration for writing. These real-world examples highlight the practical applications of AI-powered tools and their impact on improving efficiency, streamlining processes, and enhancing collaboration within writing teams.
 

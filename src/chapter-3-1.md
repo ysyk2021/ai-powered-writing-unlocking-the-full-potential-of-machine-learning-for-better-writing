@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Writing Needs and Goals
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of assessing your writing needs and goals in the context of AI-powered writing. Understanding your specific requirements and objectives is essential for effectively incorporating machine learning techniques into your writing processes.
 

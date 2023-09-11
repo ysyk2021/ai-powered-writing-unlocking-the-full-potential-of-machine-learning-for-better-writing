@@ -1,5 +1,4 @@
-Chapter 6: Case Studies of Successful AI Implementations in Writing
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies that demonstrate the successful implementation of AI in the field of writing. These real-world examples highlight how AI-powered tools and technologies have transformed the writing process, unlocking new possibilities and improving the overall quality of written content.
 

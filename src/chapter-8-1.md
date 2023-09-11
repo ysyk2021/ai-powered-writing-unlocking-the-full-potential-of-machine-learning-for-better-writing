@@ -1,5 +1,4 @@
-Chapter 11: Assessing the Effectiveness of AI for Writing
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of assessing the effectiveness of AI for writing. Evaluating the impact and performance of AI-powered writing tools is crucial to understand their strengths, limitations, and potential areas for improvement.
 

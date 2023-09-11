@@ -1,5 +1,4 @@
-Chapter 4: Importance of Data Collection and Analysis for Writing
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of data collection and analysis in the realm of writing. Understanding the importance of these processes is essential for writers looking to harness the power of AI-powered tools and unlock the full potential of machine learning for better writing outcomes.
 

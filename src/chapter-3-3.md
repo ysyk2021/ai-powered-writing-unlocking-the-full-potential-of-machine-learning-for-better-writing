@@ -1,5 +1,4 @@
-Chapter 10: Identifying Potential Implementation Challenges
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential implementation challenges that writers may encounter when integrating AI-powered tools into their writing processes. Being aware of these challenges is crucial for successful implementation and maximizing the benefits of AI-powered writing.
 

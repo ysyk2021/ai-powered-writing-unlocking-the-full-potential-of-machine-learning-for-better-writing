@@ -1,5 +1,4 @@
-Chapter 12: Developing Governance Frameworks to Ensure Responsible AI Use
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing governance frameworks to ensure responsible use of AI in writing. Establishing robust governance practices is crucial for addressing ethical concerns and ensuring accountability throughout the implementation and utilization of AI-powered writing tools.
 
